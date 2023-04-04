@@ -1,6 +1,7 @@
 # mlb-stadiums
 
 | Visited | Team Name	| Arena Name	| Arena Location	| Seating Capacity	| Opening Year | 
+|---------|-----------|-------------|-----------------|-------------------|--------------|
 | | Arizona Diamondbacks | Chase Field | Phoenix, Arizona | 48,686 | 1998 | 
 | | Atlanta Braves | Truist Park | Cumberland, Georgia | 41,084 | 2017 | 
 | | Baltimore Orioles | Oriole Park at Camden Yards | Baltimore, Maryland | 45,971 | 1992 | 
