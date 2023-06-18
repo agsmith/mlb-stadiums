@@ -17,7 +17,7 @@
 | X | Los Angeles Angels | Angel Stadium | Los Angeles, California | 45,517 | 1966 |
 | X | Los Angeles Dodgers | Dodger Stadium | Los Angeles, California | 56,000 | 1962 |
 | X | Miami Marlins | Marlins Park | Miami, Florida | 36,742 | 2012 |
-| | Milwaukee Brewers | Miller Park | Milwaukee, Wisconsin | 41,900 | 2001 |
+| X | Milwaukee Brewers | Miller Park | Milwaukee, Wisconsin | 41,900 | 2001 |
 | | Minnesota Twins | Target Field | Minneapolis, Minnesota | 38,544 | 2010 |
 | X | New York Mets | Citi Field | Queens, New York | 41,922 | 2009 |
 | | New York Yankees | Yankee Stadium | Bronx, New York | 47,309 | 2009 |
