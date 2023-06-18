@@ -6,7 +6,7 @@
 | X | Atlanta Braves | Truist Park | Cumberland, Georgia | 41,084 | 2017 | 
 | X | Baltimore Orioles | Oriole Park at Camden Yards | Baltimore, Maryland | 45,971 | 1992 | 
 | X | Boston Red Sox | Fenway Park | Boston, Massachusetts | 37,755 | 1912 |
-| | Chicago Cubs | Wrigley Field | Chicago, Illinois | 41,649 | 1914 |
+| X | Chicago Cubs | Wrigley Field | Chicago, Illinois | 41,649 | 1914 |
 | | Chicago White Sox | Guaranteed Rate Field | Chicago, Illinois | 40,615 | 1991 |
 | | Cincinnati Reds | Great American Ball Park | Cincinnati, Ohio | 42,319 | 2003 |
 | X | Cleveland Guardians | Progressive Field | Cleveland, Ohio | 34,788 | 1994 |
