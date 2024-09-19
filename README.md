@@ -18,7 +18,7 @@
 | X | Los Angeles Dodgers | Dodger Stadium | Los Angeles, California | 56,000 | 1962 |
 | X | Miami Marlins | Marlins Park | Miami, Florida | 36,742 | 2012 |
 | X | Milwaukee Brewers | Miller Park | Milwaukee, Wisconsin | 41,900 | 2001 |
-| | Minnesota Twins | Target Field | Minneapolis, Minnesota | 38,544 | 2010 |
+| X | Minnesota Twins | Target Field | Minneapolis, Minnesota | 38,544 | 2010 |
 | X | New York Mets | Citi Field | Queens, New York | 41,922 | 2009 |
 | | New York Yankees | Yankee Stadium | Bronx, New York | 47,309 | 2009 |
 | | Oakland Athletics | RingCentral Coliseum | Oakland, California | 46,847 | 1966 |
