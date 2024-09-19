@@ -20,7 +20,7 @@
 | X | Milwaukee Brewers | Miller Park | Milwaukee, Wisconsin | 41,900 | 2001 |
 | X | Minnesota Twins | Target Field | Minneapolis, Minnesota | 38,544 | 2010 |
 | X | New York Mets | Citi Field | Queens, New York | 41,922 | 2009 |
-| | New York Yankees | Yankee Stadium | Bronx, New York | 47,309 | 2009 |
+| X | New York Yankees | Yankee Stadium | Bronx, New York | 47,309 | 2009 |
 | | Oakland Athletics | RingCentral Coliseum | Oakland, California | 46,847 | 1966 |
 | X | Philadelphia Phillies | Citizens Bank Park | Philadelphia, Pennsylvania | 42,792 | 2004 |
 | X | Pittsburgh Pirates | PNC Park | Pittsburgh, Pennsylvania | 38,747 | 2001 |
