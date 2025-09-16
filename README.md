@@ -13,7 +13,7 @@
 | | Colorado Rockies | Coors Field | Denver, Colorado | 50,445 | 1995 |
 | X | Detroit Tigers | Comerica Park | Detroit, Michigan | 41,083 | 2000 |
 | X | Houston Astros | Minute Maid Park | Houston, Texas | 41,168 | 2000 |
-| | Kansas City Royals | Kauffman Stadium | Kansas City, Missouri | 37,903 | 1973 |
+| X | Kansas City Royals | Kauffman Stadium | Kansas City, Missouri | 37,903 | 1973 |
 | X | Los Angeles Angels | Angel Stadium | Los Angeles, California | 45,517 | 1966 |
 | X | Los Angeles Dodgers | Dodger Stadium | Los Angeles, California | 56,000 | 1962 |
 | X | Miami Marlins | Marlins Park | Miami, Florida | 36,742 | 2012 |
@@ -29,6 +29,6 @@
 | | Seattle Mariners | T-Mobile Park | Seattle, Washington | 47,929 | 1999 |
 | X | St. Louis Cardinals | Busch Stadium | St. Louis, Missouri | 45,494 | 2006 |
 | | Tampa Bay Rays | Tropicana Field | St. Petersburg, Florida | 25,000 | 1990 |
-| | Texas Rangers | Globe Life Field | Arlington, Texas | 40,300 | 2020 |
+| X | Texas Rangers | Globe Life Field | Arlington, Texas | 40,300 | 2020 |
 | | Toronto Blue Jays | Rogers Centre | Toronto, Ontario | 49,282 | 1989 |
 | | Washington Nationals | Nationals Park | Washington, D.C. | 41,339 | 2008 |
